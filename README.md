@@ -17,7 +17,7 @@ O **Gerador de Senha** permite aos usuários criar senhas fortes e aleatórias d
 ### Interface do Gerador de Senha
 
 <div style="display: flex; flex-direction: row;">
-  <img src="./assets/logo3.png" alt="Screenshot do Gerador de Senha" width="800"/>
+  <img src="https://github.com/Jonemanuel/Gerador-Senha/blob/main/readme/Captura%20de%20tela%20de%202024-11-19%2011-25-18.png?raw=true" alt="Screenshot do Gerador de Senha" width="800"/>
 </div>
 
 ## Tecnologias Utilizadas
