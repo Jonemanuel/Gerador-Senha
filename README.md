@@ -1,48 +1,62 @@
-Password Generator
+# Gerador de Senha
 
-Password Generator is a simple and effective tool for generating secure passwords. Built using HTML, CSS, and JavaScript, it features a user-friendly interface that allows users to customize password length and easily copy generated passwords.
-Description
+**Gerador de Senha** é uma ferramenta simples e eficaz para criar senhas seguras e personalizáveis, desenvolvida com HTML, CSS e JavaScript. Este projeto oferece uma experiência de usuário intuitiva, com um controle de comprimento de senha e função de cópia com um clique.
 
-This project offers a straightforward way to create strong, random passwords. With an intuitive design, users can set the desired password length and instantly generate a secure password. Once created, the password can be copied with a single click.
-Features
+## Descrição
 
-    Customizable Length: Choose a password length between 5 and 25 characters using a slider.
-    Instant Generation: Quickly generate strong, random passwords.
-    Copy Functionality: Click on the generated password to copy it to the clipboard.
-    Responsive Design: Works seamlessly across different devices and screen sizes.
+O **Gerador de Senha** permite aos usuários criar senhas fortes e aleatórias de acordo com suas necessidades. A interface intuitiva oferece controle sobre o comprimento da senha, garantindo um equilíbrio entre segurança e usabilidade.
 
-Technologies Used
+## Funcionalidades
 
-    HTML: For structuring the application.
-    CSS: For styling and creating a responsive layout.
-    JavaScript: For handling password generation and copy functionality.
+- **Comprimento Personalizável:** Ajuste facilmente o comprimento da senha (de 5 a 25 caracteres) usando o slider.  
+- **Cópia com Um Clique:** Clique na senha gerada para copiá-la diretamente para a área de transferência.  
+- **Design Responsivo:** Totalmente otimizado para uso em vários dispositivos.  
 
-Screenshot
+## Capturas de Tela
 
-Password Generator Screenshot
-How to Use
+### Interface do Gerador de Senha
 
-    Set the Password Length: Adjust the slider to select the number of characters for your password.
-    Generate Password: Click the "Gerar senha" button to create a random password.
-    Copy Password: Tap the generated password to copy it to your clipboard.
+<div style="display: flex; flex-direction: row;">
+  <img src="./assets/logo3.png" alt="Screenshot do Gerador de Senha" width="800"/>
+</div>
 
-Installation
+## Tecnologias Utilizadas
 
-To run this project locally:
+- **HTML:** Define a estrutura da aplicação.  
+- **CSS:** Fornece o estilo e o design responsivo.  
+- **JavaScript:** Gerencia a lógica para geração de senhas e funcionalidade de copiar para a área de transferência.  
 
-    Clone the repository:
+## Instalação
 
-git clone https://github.com/Jonemanuel/Password-Generator.git
+Para configurar o projeto localmente:
 
-Navigate to the project directory:
-
+1. **Clone o repositório / Clone the repository:**
+    ```bash
+    git clone https://github.com/Jonemanuel/Password-Generator.git
+    ```
+2. **Navegue até o diretório do projeto / Navigate to the project directory:**
+    ```bash
     cd Password-Generator
+    ```
+3. **Abra o arquivo HTML / Open the HTML file:**
+    O projeto pode ser visualizado diretamente no navegador.  
+    The project can be viewed directly in the browser.
 
-    Open the index.html file in your browser.
+## Uso / Usage
 
-Contribution
+1. **Iniciar o Gerador / Start the Generator:** Ao iniciar a página, você verá o controle deslizante para definir o comprimento da senha.  
+   After opening the page, you will see the slider to set the password length.
+2. **Gerar Senha / Generate Password:** Clique no botão "Gerar senha" para gerar uma senha aleatória.  
+   Click on the "Gerar senha" button to generate a random password.
+3. **Copiar Senha / Copy Password:** Clique na senha gerada para copiá-la para a área de transferência.  
+   Click on the generated password to copy it to the clipboard.
 
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-Contact
+## Contribuição / Contribution
 
-For more information, contact Jonatas Emanuel at jonatasemanuel276@gmail.com.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias.  
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
+
+## Contato / Contact
+
+Para mais informações, entre em contato com Jonatas Emanuel em [jonatasemanuel276@gmail.com](mailto:jonatasemanuel276@gmail.com).  
+For more information, contact Jonatas Emanuel at [jonatasemanuel276@gmail.com](mailto:jonatasemanuel276@gmail.com).
